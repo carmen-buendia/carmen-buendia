@@ -8,15 +8,9 @@
 
 ---
 
-Aquí tienes la **versión definitiva con badges individuales para cada tecnología**, agrupada por categorías y lista para copiar y pegar directamente en tu README.md.
-
-He mantenido el orden que te gusta y añadido **cada badge con su color y logo oficial** .
-
----
-
 ## 🛠️ Core Tech Stack
 
-### Lenguajes principales
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,36 +25,27 @@ He mantenido el orden que te gusta y añadido **cada badge con su color y logo o
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### Estilos y UI
+### UI & Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style-for-the-badge&logo=styled-components&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 
-### Bases de datos & ORMs
+### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,38 +53,31 @@ He mantenido el orden que te gusta y añadido **cada badge con su color y logo o
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 
-### Arquitectura
+### Architecture
 ![Micro-frontends](https://img.shields.io/badge/Micro--frontends-00979D?style=for-the-badge&logo=&logoColor=white)
 ![Monorepos](https://img.shields.io/badge/Monorepos-2C2C2C?style=for-the-badge&logo=&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-![Lerna](https://img.shields.io/badge/Lerna-2C2C2C?style=for-the-badge&logo=lerna&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=&logoColor=white)
 
-### Testing & Calidad
+### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
 
-### Visualización de datos
+### Data Visualization
 ![AG-Grid](https://img.shields.io/badge/AG--Grid-5A9F4B?style=for-the-badge&logo=aggrid&logoColor=white)
 ![HighCharts](https://img.shields.io/badge/HighCharts-FF6B6B?style=for-the-badge&logo=highcharts&logoColor=white)
 
-### Control de versiones & gestión
+### Version Control & Management
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
@@ -116,18 +94,71 @@ He mantenido el orden que te gusta y añadido **cada badge con su color y logo o
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
+### 🌱 Sicilia Soil
+*Syntropic Mycological Permaculture Dashboard*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/carmen-buendia/sicilia-soil)
+[![CI](https://github.com/carmen-buendia/sicilia-soil/actions/workflows/ci.yml/badge.svg)](https://github.com/carmen-buendia/sicilia-soil/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue?style=flat-square)](LICENSE)
+
+Real-time monitoring dashboard for a permaculture garden in Sicily. Integrates mushroom cultivation, traditional esparto grass harvesting calendar, and IoT sensors. Built as a monorepo with full CI/CD.
+
+**What this project demonstrates:**
+- ✅ Scalable frontend architecture (monorepo, reusable components)
+- ✅ Real-time data visualization (WebSockets)
+- ✅ Full-stack system design (frontend + backend)
+- ✅ CI/CD automation (GitHub Actions)
+- ✅ Professional documentation (README, license, templates)
+- ✅ Domain knowledge (permaculture, mycology, esparto)
+
+**Tech stack:** React, Next.js, TypeScript, Tailwind, Socket.io, Node.js, GitHub Actions
+
+---
+
+## 🏢 Professional Experience
+
+| Role | Company | Tech Stack |
+|:---|:---|:---|
+| **Frontend Architect** | CGI (Unicaja) | React, TypeScript, Micro-frontends, Docker, Kubernetes |
+| **Senior Frontend Developer** | Laudus S.L. (Visma Latam) | React, TypeScript, AG-Grid, HighCharts, Storybook |
+| **Fullstack Freelance** | International Clients | React, Next.js, Nest.js, PostgreSQL, Stripe |
+
+*Note: Code from professional projects is proprietary and not publicly available.*
+
+---
+
+## 🧠 About Me
+
+🎵 **Music Producer & Film Composer** by training. This background gives me:
+- Active listening and teamwork skills
+- Narrative approach to user experience
+- Aesthetic sensitivity in interface design
+
+🌱 **Permaculture & Mycology** in my personal life:
+- Syntropic design applied to my garden in Sicily
+- Integration of technology with traditional practices
+- Holistic view of complex systems
+
+📍 Currently in Sicily, combining **permaculture, mycology, and code**.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/carmen-buendía](https://linkedin.com/in/carmen-buendía)
-- Email: carmenbuendiafullstack@gmail.com
+| Via | Link |
+|:---|:---|
+| **GitHub** | [github.com/carmen-buendia](https://github.com/carmen-buendia) |
+| **LinkedIn** | [linkedin.com/in/carmen-buendía](https://linkedin.com/in/carmen-buendía) |
+| **Email** | carmenbuendiafullstack@gmail.com |
 
 ---
 
 ## ⚡ Beyond the Code
 
-When I'm not coding, you'll find me working with esparto grass, exploring permaculture, creating music or enjoying life.
+When I'm not coding, you'll find me working with esparto grass, exploring permaculture, creating music, or enjoying life in Sicily.
+
+---
+
+⭐ *A project in constant evolution. Every commit is a step toward a more robust system connected to the Sicilian land.*
