@@ -127,6 +127,16 @@ Real-time monitoring dashboard for a permaculture garden in Sicily. Integrates m
 
 *Note: Code from professional projects is proprietary and not publicly available.*
 
+## 📊 About My GitHub Activity
+
+My professional code is proprietary and not publicly available. I've worked with:
+
+- **Bitbucket** – CGI / Unicaja (10 months)
+- **GitHub** – Laudus S.L. / Visma Latam (3 years, code removed per company policy)
+
+This GitHub profile showcases my **personal projects** like Sicilia Soil.
+
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket)](https://bitbucket.org/)
 ---
 
 ## 🧠 About Me
