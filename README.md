@@ -4,7 +4,7 @@
 
 🎵 **Music Producer & Film Composer** background. This gives me a unique perspective on rhythm, narrative, and emotion in digital products.
 
-📍 Currently in Sicily, Italy (CET) · Available for remote freelance projects
+📍Available for remote freelance projects
 
 ---
 
