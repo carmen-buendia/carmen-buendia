@@ -45,9 +45,9 @@ I have led legacy system migrations to modern SPAs, implemented micro-frontends 
 
 ## 🌱 Featured Project
 
-### Sicilia Soil · Permaculture & Mycology Dashboard
+### Soil Dashboard · Permaculture & Mycology
 
-Real-time monitoring dashboard for a permaculture garden in Sicily. Integrates mushroom cultivation, esparto grass harvesting calendar, and IoT sensors.
+Real-time monitoring dashboard for a permaculture garden. Integrates mushroom cultivation, harvesting calendar, and IoT sensors.
 
 - **Architecture:** Monorepo with full CI/CD
 - **Stack:** React, Next.js, TypeScript, Tailwind, Socket.io, Node.js, GitHub Actions
@@ -76,7 +76,7 @@ Real-time monitoring dashboard for a permaculture garden in Sicily. Integrates m
 
 - Music producer and DJ with 20+ years of experience
 - Collective founder: Carycar Club (Vigo), Melancholia_Collective (Madrid)
-- Interests: permaculture, mycology, esparto grass, life in country.
+- Interests: permaculture, mycology, esparto grass
 
 ---
 
