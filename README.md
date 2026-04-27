@@ -151,7 +151,7 @@ This GitHub profile showcases my **personal projects** like Sicilia Soil.
 - Integration of technology with traditional practices
 - Holistic view of complex systems
 
-📍 Currently in Sicily, combining **permaculture, mycology, and code**.
+ **combining **permaculture, mycology, and code**.
 
 ---
 
