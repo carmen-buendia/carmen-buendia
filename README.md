@@ -147,7 +147,7 @@ This GitHub profile showcases my **personal projects** like Sicilia Soil.
 - Aesthetic sensitivity in interface design
 
 🌱 **Permaculture & Mycology** in my personal life:
-- Syntropic design applied to my garden in Sicily
+- Syntropic design applied to my garden
 - Integration of technology with traditional practices
 - Holistic view of complex systems
 
@@ -167,8 +167,8 @@ This GitHub profile showcases my **personal projects** like Sicilia Soil.
 
 ## ⚡ Beyond the Code
 
-When I'm not coding, you'll find me working with esparto grass, exploring permaculture, creating music, or enjoying life in Sicily.
+When I'm not coding, you'll find me working with esparto grass, exploring permaculture, creating music, or enjoying life.
 
 ---
 
-⭐ *A project in constant evolution. Every commit is a step toward a more robust system connected to the Sicilian land.*
+⭐ *A project in constant evolution. Every commit is a step toward a more robust system connected to the land.*
