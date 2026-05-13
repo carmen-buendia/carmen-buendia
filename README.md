@@ -60,8 +60,9 @@ Real-time monitoring dashboard for a permaculture garden. Integrates mushroom cu
 ## 📚 Education
 
 - **Full Stack Web Developer Bootcamp (540h)** – The Bridge Digital Talent Accelerator (2020)
-- **XXI Sound and Music for Film Workshop** – SGAE (2023-2024)
+- **Android App Development (60h)** – Groupance Formación (2021)
 - **Software Design Patterns Course (150h)** – Levelcom (2021)
+- **XXI Sound and Music for Film Workshop** – SGAE (2023-2024)
 
 ---
 
