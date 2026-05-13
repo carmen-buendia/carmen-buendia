@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Carmen Buendía
 
-**Senior Full Stack Engineer** · React · TypeScript · Node.js · MongoDB · Docker · Kubernetes
+**Senior Frontend Architect & Full Stack Engineer** · React · TypeScript · Node.js · MongoDB · Docker · Kubernetes
 
-📍 Remote (UTC+1) · 📞 +34 638955062 · ✉️ carmenbuendiafullstack@gmail.com
+📍 Remote from Sicily, Italy (UTC+1) · 📞 +34 638955062 · ✉️ carmenbuendiafullstack@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmen-buendia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/carmen-buendia)
@@ -12,9 +12,9 @@
 
 ## 💻 About Me
 
-Software Engineer with **5+ years of experience** as a Full Stack Engineer, specializing in React, TypeScript, Node.js, and scalable architectures.
+Software Engineer with **5+ years of experience** as a Full Stack developer, specializing in **React, TypeScript, and scalable frontend architectures** — but comfortable building APIs and databases when needed.
 
-I have led legacy system migrations to modern SPAs, implemented micro-frontends in regulated banking environments, and built component libraries that reduced UI development time by up to 30%.
+I have led legacy system migrations to modern SPAs, implemented micro-frontends in regulated banking environments, and built component libraries that reduced UI development time by up to 30%. I currently live in Sicily, working remotely for European clients.
 
 **🎵 Differentiator:** Background in music production and film composition. This gives me a unique perspective on communication, narrative, and sensitivity for digital products.
 
@@ -37,15 +37,15 @@ I have led legacy system migrations to modern SPAs, implemented micro-frontends 
 
 | Role | Company | Stack |
 |------|---------|-------|
-| Frontend Architect | CGI (Unicaja) | React, TypeScript, Micro-frontends, Docker, Kubernetes, Jenkins |
+| Frontend Architect Consultant | CGI (Unicaja) | React, TypeScript, Micro-frontends, Docker, Kubernetes, Jenkins |
 | Senior Frontend Developer | Laudus S.L. (Visma Latam) | React, TypeScript, AG-Grid, HighCharts, Storybook |
-| Fullstack Freelance | International Clients | React, Next.js, NestJS, PostgreSQL, Stripe |
+| Fullstack Developer (Freelance) | International Clients | React, Next.js, NestJS, PostgreSQL, Stripe |
 
 ---
 
 ## 🌱 Featured Project
 
-### Soil Dashboard · Permaculture & Mycology
+### Sicilia Soil · Permaculture Dashboard
 
 Real-time monitoring dashboard for a permaculture garden. Integrates mushroom cultivation, harvesting calendar, and IoT sensors.
 
@@ -69,6 +69,7 @@ Real-time monitoring dashboard for a permaculture garden. Integrates mushroom cu
 
 - **Spanish:** Native
 - **English:** Advanced (fluent technical conversation)
+- **Italian:** Basic (currently learning)
 
 ---
 
@@ -77,6 +78,7 @@ Real-time monitoring dashboard for a permaculture garden. Integrates mushroom cu
 - Music producer and DJ with 20+ years of experience
 - Collective founder: Carycar Club (Vigo), Melancholia_Collective (Madrid)
 - Interests: permaculture, mycology, esparto grass
+- **Currently relocated to Sicily, Italy**
 
 ---
 
