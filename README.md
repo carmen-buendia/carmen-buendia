@@ -121,8 +121,7 @@ Currently expanding into the **Salesforce ecosystem** (Trailhead: Adopting a Des
 - **Email:** carmenbuendiafullstack@gmail.com
 - **LinkedIn:** [linkedin.com/in/carmen-buendía](https://linkedin.com/in/carmen-buendía)
 - **GitHub:** [github.com/carmen-buendia](https://github.com/carmen-buendia)
-- **Portfolio:** [carmen-buendia.vercel.app](https://carmen-buendia.vercel.app](https://mi-portfolio-five-smoky.vercel.app/)
-
+- **Portfolio:** [carmen-buendia.vercel.app](https://mi-portfolio-five-smoky.vercel.app/)
 ---
 
 ⭐ *"I don't just write code. I build solutions that matter."*
