@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmen-buendía)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/carmen-buendia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carmenbuendiafullstack@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d5a27?style=flat&logo=vercel&logoColor=white)](https://carmen-buendia.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d5a27?style=flat&logo=vercel&logoColor=white)](https://mi-portfolio-five-smoky.vercel.app)
 
 ---
 
