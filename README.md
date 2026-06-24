@@ -46,8 +46,7 @@ Currently expanding into the **Salesforce ecosystem** (Trailhead: Adopting a Des
 | **Frontend Architecture Consultant** | CGI · UNICAJA | Jan 2025 - Nov 2025 | Micro-frontends, Storybook component library, Jenkins CI/CD, WCAG standards, monorepo with Lerna |
 | **Frontend Developer** | LAUDUS (Visma Latam) | Jan 2022 - Nov 2024 | Led ERP legacy → SPA migration, design system from scratch (Chakra UI), AG-Grid, HighCharts, Storybook |
 | **Fullstack Developer** | Soamee Studio | May 2021 - Nov 2021 | NFT wallet integration (OnFlow), Stripe, Tailwind, Styled Components, Figma |
-| **Frontend Developer (Freelance)** | E-Gaming Platform | 2025 | Vue, Prisma, PostgreSQL, Vercel, Render |
-| **Frontend Developer (Freelance)** | Vibe (Singapore) | Jun 2022 | Orange Spain website, responsive UI, vanilla JS, Sass |
+| **Frontend Developer (Freelance)** |  Vibe (Singapore) | Jun 2022 | Vue, Prisma, PostgreSQL, Vercel, Render |
 | **Frontend Developer (Freelance)** | Frog Design (Madrid) | Nov 2021 - Jan 2022 | Orange Spain website, vanilla JS, HTML5, CSS3 |
 | **Fullstack Developer (Freelance)** | BooBoo | Dec 2020 - Feb 2021 | Angular 7 dashboards, Node.js APIs, PostgreSQL, Swagger |
 | **Web Development Lead** | Punchpalm | Jun 2020 - Dec 2020 | Full-stack CRM, React + Node.js + MongoDB, custom WordPress plugin |
