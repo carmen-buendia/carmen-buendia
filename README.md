@@ -2,7 +2,7 @@
 
 **Frontend Engineer & UI Developer** · Design Systems · React · TypeScript
 
-📍 Sicily, Italy (Remote-ready) · 📞 +34 638 955 062 · ✉️ carmenbuendiafullstack@gmail.com
+📍 Sicily, Italy (Remote-ready) · ✉️ carmenbuendiafullstack@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmen-buendía)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/carmen-buendia)
