@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carmen Buendía
 
-**Frontend Engineer & UI Developer** · Design Systems · React · TypeScript
+**Frontend Architect · Design Systems · React · TypeScript
 
 📍 Sicily, Italy (Remote-ready) · ✉️ carmenbuendiafullstack@gmail.com
 
